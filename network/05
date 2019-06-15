@@ -1,0 +1,1 @@
+host slqsh16.org | grep 'address' | awk '{print $4}'
